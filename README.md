@@ -11,8 +11,8 @@ Ejemplos:
 
 Integrantes del proyecto:
 
-1.Matias Mauger de la Branniere
-2. Edwar Reyes
-3. Sebastián Seoane
-4. Liceth Juliana Jimenez Orrego
-5. Ramiro Castro
+- Matias Mauger de la Branniere: Bs.Argentina. 40 años, fanatico de la musica.
+- Edwar Reyes: Bogotá, Colombiano. 29 años. Me gustan las motos y la lectura.
+- Sebastián Seoane: Bs. Argentina. 43 años. Disfruto de los deportes.
+- Liceth Juliana Jimenez Orrego: Medellin, Colombia. 28 años. Me gusta aprender de historia y disfruto pasear en bici.
+- Ramiro Castro:
