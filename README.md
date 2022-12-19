@@ -1,6 +1,6 @@
 # Grupo_7_tickets
 
-TicketsDH es una ecommerce de venta y distribución de boletos para eventos de entretenimiento, culturales y deportivos donde sus principales clientes son todas las personas interesadas en determinado evento dentro del tipo que se maneja. Los creadores de cada evento son los encargados de crearlos, TicketsDH actua como agente en la venta de estos.
+TicketsDH es una ecommerce de venta y distribución de boletos para eventos a nivel nacional de entretenimiento, culturales y deportivos donde sus principales clientes son todas las personas interesadas en determinado evento dentro del tipo que se maneja. Los creadores de cada evento son los encargados de crearlos, TicketsDH actua como agente en la venta de estos.
 
 Ejemplos:
 1. https://www.tuboleta.com/
@@ -11,8 +11,8 @@ Ejemplos:
 
 Integrantes del proyecto:
 
-Matias Mauger de la Branniere
-Edwar Reyes
-Sebastián Seoane
-Liceth Juliana Jimenez Orrego: 
-Ramiro Castro
+1.Matias Mauger de la Branniere
+2. Edwar Reyes
+3. Sebastián Seoane
+4. Liceth Juliana Jimenez Orrego
+5. Ramiro Castro
