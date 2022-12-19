@@ -12,7 +12,7 @@ Ejemplos:
 Integrantes del proyecto:
 
 - Matias Mauger de la Branniere: Bs.Argentina. 40 años, fanatico de la musica.
-- Edwar Reyes: Bogotá, Colombiano. 29 años. Me gustan las motos y la lectura.
+- Edwar Reyes: Bogotá, Colombia. 29 años. Me gustan las motos y la lectura.
 - Sebastián Seoane: Bs. Argentina. 43 años. Disfruto de los deportes.
 - Liceth Juliana Jimenez Orrego: Medellin, Colombia. 28 años. Me gusta aprender de historia y disfruto pasear en bici.
 - Ramiro Castro:
