@@ -1,0 +1,23 @@
+{
+  "name": "grupo_7_tickets",
+  "version": "1.0.0",
+  "description": "TicketsDH es una ecommerce de venta y distribución de boletos para eventos a nivel nacional de entretenimiento, culturales y deportivos donde sus principales clientes son todas las personas interesadas en determinado evento dentro del tipo que se maneja. Los creadores de cada evento son los encargados de crearlos, TicketsDH actua como agente en la venta de estos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimenezo94/grupo_7_tickets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimenezo94/grupo_7_tickets/issues"
+  },
+  "homepage": "https://github.com/Jimenezo94/grupo_7_tickets#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
