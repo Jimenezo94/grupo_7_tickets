@@ -1,6 +1,6 @@
 # Grupo_7_tickets
 
-TicketsDH es una ecommerce de venta y distribución de boletos para eventos a nivel nacional de entretenimiento, culturales y deportivos donde sus principales clientes son todas las personas interesadas en determinado evento dentro del tipo que se maneja. Los creadores de cada evento son los encargados de crearlos, TicketsDH actua como agente en la venta de estos.
+DigitalTickets es una ecommerce de venta y distribución de boletos para eventos a nivel nacional de entretenimiento, culturales y deportivos donde sus principales clientes son todas las personas interesadas en determinado evento dentro del tipo que se maneja. Los creadores de cada evento son los encargados de crearlos, TicketsDH actua como agente en la venta de estos.
 
 Nos inspiramos en:
 
