@@ -22,5 +22,5 @@ Integrantes del proyecto:
 - Sebastián Seoane: Bs. Argentina. 43 años. Disfruto de los deportes.
 - Liceth Juliana Jimenez Orrego: Medellin, Colombia. 28 años. Me gusta aprender de historia y disfruto pasear en bici.
 
-Link tablero Trello: https://trello.com/invite/b/rrYaENLY/ATTI14cdd9b185ba206c1500a73095d2cc9e63CE2E6C/grupo7tickets
+Link tablero Trello: https://trello.com/b/rrYaENLY/grupo7tickets
 Link Wireframe: https://www.figma.com/file/wxwZ42FtvFl3HMO2ww8Z51/Grupo%237_Tickets?node-id=0%3A1&t=Y35Z9X0gtH9ezvOy-1
