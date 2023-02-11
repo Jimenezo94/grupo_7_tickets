@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/administrador.css">
+    <title>administrador</title>
+</head>
+<body>
+    <h1>CREACION DE EVENTO</h1>
+    <form action="action_page.php">
+      <div class="container">
+        <h2>ingresa tu evento</h2>
+        <hr>
+        <p>vende tu boleta aca</p>
+        
+        <label for="inombreEvento"><b>Nombre evento</b></label>
+        <input
+          type="text"
+          placeholder="cual es tu evento?"
+          name="nombreEvento"
+          id="inombreEvento"
+          required
+        />
+        <br>
+
+<label for="iqueEventoEs"><b>tipo de evento</b></label>
+<br>
+<input type="radio" id="concierto" name="evento" value="concierto">
+<label for="concierto">concierto</label>
+<br>
+
+<input type="radio" id="deportes" name="evento" value="deportes">
+<label for="deportes">deportes</label>
+<br>
+
+<input type="radio" id="teatro" name="evento" value="teatro">
+<label for="teatro">teatro</label>
+<br>
+
+<input type="radio" id="otro" name="evento" value="otro">
+<label for="otro">otro</label>
+
+<input type="text" name="cual" placeholder="cual?">
+<br>
+
+        <label for="icantBoletas"><b>cantidad de boletas</b></label>
+        <input
+          type="number"
+          placeholder= "boletas disponibles"
+          name="cantBoletas"
+          id="icantBoletas"
+          required
+        />
+        <br>
+
+        <label for="ifecha"><b>fecha evento</b></label>
+        <input
+          type="date"
+          placeholder="fecha de tu evento"
+          name="fecha"
+          id="ifecha"
+          required
+        />
+<p><input type="submit"></p>
+<input type="reset">
+<br>
+        <button type="submit" class="buttoncrear">crear evento</button>
+      </div>
+     </form>
+     <footer class="">
+        <div class="">
+          <h3>Hecho por Tickets DH 😎</h3>
+        </div>
+      </footer>
+    </body>
+</html>

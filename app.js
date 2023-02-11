@@ -5,7 +5,7 @@ const path = require("path");
 const mainRouter = require('./src/routers/mainRouter.js')
 const userRouter = require('./src/routers/userRouter.js');
 const productRouter = require('./src/routers/productRouter.js')
-
+const editProductRouter = require('./src/routers/editProductRouter.js')
 const app = express ();
 
 const publicPath = path.resolve(__dirname, "./public");
@@ -23,3 +23,4 @@ app.set('views', __dirname + '/src/views');
 app.use(mainRouter);
 app.use(userRouter);
 app.use(productRouter);
+app.use(editProductRouter);
