@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box
+    }
+
+body{
+    background-color: rgb(5, 177, 245);
+}
+
+.container {
+  padding: 5%;
+   font-size: 150%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(3, 39, 80);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 300%;
+}
+
+form {
+    border: 10px solid rgb(60, 255, 0);
+    width: 80%;
+    justify-content: center;
+    margin: auto;
+    background-color: rgb(0, 238, 255);
+}
+
+input[type=text], input[type=number],input[type= date] {
+  width: 80%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+hr {
+  border: 2px solid #d8f006;
+  margin-bottom: 25px;
+}
+
+.buttoncrear {
+  background-color: DodgerBlue;;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  width: 40%;
+  opacity: 0.9;
+  font-size: 100%;
+
+}
+
+input[type=submit], input[type=reset] {
+    background-color: #d8f006;
+    border: none;
+    width: 20%;
+    font-size: 100%;
+}
